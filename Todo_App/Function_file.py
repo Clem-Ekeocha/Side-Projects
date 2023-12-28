@@ -1,5 +1,5 @@
 """
-Functions File necessary for the GUI of the todo app
+Functions File necessary for the GUI development
 """
 FILEPATH = "todos.txt"
 
